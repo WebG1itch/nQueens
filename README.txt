@@ -1,4 +1,4 @@
-The program itself is pretty simple to run. Simply type 'make' in tesla and it will ask you to define n
+The program itself is pretty simple to run. Simply type 'make' and it will ask you to define n
 to define n, type a number and press enter. If your number is too large, it will warn you and request your
 assurance. To confirm that you want to run with the number you'll type Y, and to run at it's recommended
 limit, you type N. 
